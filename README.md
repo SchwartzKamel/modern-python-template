@@ -21,7 +21,7 @@ pipx install modern-python-template
 
 For development installation:
 ```bash
-git clone https://github.com/yourusername/modern-python-template.git
+git clone https://github.com/SchwartzKamel/modern-python-template.git
 cd modern-python-template
 poetry install
 ```
